@@ -2,6 +2,7 @@
 This repository contains MATLAB code implementing the Finite Element Method (FEM) for solving partial differential equations (PDEs). The code is organized into different sections corresponding to specific problem formulations and numerical techniques. This README provides an overview of the contents and usage of the code.
 In this practical work (TP), we focus on modeling the propagation of sound in a two-dimensional domain, potentially heterogeneous. The propagation velocity may vary depending on the position in space. We will work with MATLAB software. Additionally, we assume that the domain is isolated by a clamped boundary condition, which dampens vibrations, modeled by homogeneous Dirichlet conditions.
 To run using this FEM code, use principal_CFL.m, principal_stationnaire.m, principal_temporel.m which are respectively the main in the several options.
+![image](https://github.com/GauthierJARY/FEM-solving-2D-equations-AN201/assets/106387453/81cad118-2a0c-4e01-87a7-d6fe703a828a)
 
 For more information, please refer yourself to the written technical report.
 
@@ -10,6 +11,7 @@ For more information, please refer yourself to the written technical report.
 1. [Stationary Problem with Variable Coefficients and Dirichlet Conditions](#stationary-problem)
 2. [Wave Equation with Exact Mass Matrix Integration](#wave-equation)
 3. [Wave Equation using Mass Condensation Method](#wave-equation-condensation)
+![image](https://github.com/GauthierJARY/FEM-solving-2D-equations-AN201/assets/106387453/1205fd3f-dee7-42da-91b2-bc44d83b34a2)
 
 ### Stationary Problem with Variable Coefficients and Dirichlet Conditions
 - **Formulation and Well-Posedness**: The problem is formulated variably with Dirichlet conditions.
